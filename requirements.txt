@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+flask==3.0.3
+flask-cors==4.0.1
+pillow
+numpy
+scikit-learn
+matplotlib
+opencv-python-headless
+pytorch_grad_cam
+reportlab
+gunicorn

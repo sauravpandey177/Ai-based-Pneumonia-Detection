@@ -1,0 +1,14 @@
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+scans/*.jpg
+reports/*.png
+reports/*.pdf
+database.json
+dataset/
+New folder/
+frontend/
+tmp*.pdf
+.DS_Store
