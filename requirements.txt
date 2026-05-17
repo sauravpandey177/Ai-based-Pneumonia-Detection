@@ -9,6 +9,6 @@ numpy
 scikit-learn
 matplotlib
 opencv-python-headless
-pytorch_grad_cam
+grad-cam
 reportlab
 gunicorn
